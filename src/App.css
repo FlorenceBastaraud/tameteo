@@ -1,0 +1,95 @@
+body{
+  overflow-y: hidden;
+  background-image: url(https://images.unsplash.com/photo-1654180654390-3a87c21e1266?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80);
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  height: 60vh;
+  margin: 5% auto;
+  width: 80%;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.titre{
+  text-shadow:  -1px -1px 0 #000,  
+                1px -1px 0 #000,
+                -1px 1px 0 #000,
+                1px 1px 0 #000,
+                1px 1px 2px #141414,
+                1px 1px 3px #141414,
+                1px 1px 5px #141414,
+                1px 1px 7px #141414,
+                1px 1px 10px #141414,
+                1px 1px 12px #141414,
+                1px 1px 18px #141414;
+  color:#fff;
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  transition: color 0.20s, top 0.15s, left 0.10s;
+}
+.titre:hover{
+  color: rgb(158, 241, 75);
+  top: -2px;
+  left: 2px;
+  cursor: pointer;
+}
+
+.bienvenue{
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 10px;
+  height: 200px;
+}
+
+.bienvenue p{
+  transition: font-size 0.8s;
+}
+
+.bienvenueSp p:hover,
+.bienvenue #ville:hover{
+  color: rgb(158, 241, 75);
+  top: -2px;
+  left: 2px;
+  cursor: pointer;
+  font-size: 35px;
+  text-shadow:  -1px -1px 0 #000,  
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000,
+  1px 1px 2px #141414,
+  1px 1px 3px #141414,
+  1px 1px 5px #141414,
+  1px 1px 7px #141414,
+  1px 1px 10px #141414,
+  1px 1px 12px #141414,
+  1px 1px 18px #141414;
+  }
+
+  .bienvenue #ville{
+    text-transform:uppercase;
+    font-weight: bold;
+    color: rgb(10, 240, 240);
+  }
+
+  .bienvenue #description{
+    text-transform:capitalize;
+  }
+
+.input{
+  padding: 15px 20px;
+  width: 70%;
+  margin: auto;
+  outline: none;
+  border: 1px solid lightyellow;
+  border-radius: 10px 90px 10px 90px;
+  box-shadow: 5px 5px 15px rgba(255, 255, 255, 0.15);
+  text-align: center;
+  cursor: pointer;
+}
