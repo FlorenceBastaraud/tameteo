@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tameteo/static/css/main.b8e657e3.css",
+    "main.js": "/tameteo/static/js/main.d6abcb76.js",
+    "static/js/787.f6de2332.chunk.js": "/tameteo/static/js/787.f6de2332.chunk.js",
+    "index.html": "/tameteo/index.html",
+    "main.b8e657e3.css.map": "/tameteo/static/css/main.b8e657e3.css.map",
+    "main.d6abcb76.js.map": "/tameteo/static/js/main.d6abcb76.js.map",
+    "787.f6de2332.chunk.js.map": "/tameteo/static/js/787.f6de2332.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e657e3.css",
+    "static/js/main.d6abcb76.js"
+  ]
+}
