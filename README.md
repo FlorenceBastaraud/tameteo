@@ -1,3 +1,3 @@
-# Petite application météo réalisée avec REACT || Small weather application made with REACT
+# Application météo | Weather app
 
-## Florence B.
+## Par Florence B. avec REACT et l'API openweathermap
