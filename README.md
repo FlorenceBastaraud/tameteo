@@ -1,4 +1,4 @@
-# Application météo | Weather app
+Weather app
 
 ### React, Css, Html & OpenWeatherMap API
 
