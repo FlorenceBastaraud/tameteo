@@ -1,7 +1,5 @@
 # Application météo | Weather app
 
-### React & OpenWeatherMap API
+### React, Css, Html & OpenWeatherMap API
 
-#### By Florence B.
-
-##### [Lien démo](https://florencebastaraud.github.io/tameteo/)
+##### [Demo link](https://florencebastaraud.github.io/tameteo/)
